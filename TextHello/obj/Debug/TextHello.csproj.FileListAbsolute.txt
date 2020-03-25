@@ -1,0 +1,6 @@
+C:\Work\Sample\TextHello\bin\Debug\TextHello.exe
+C:\Work\Sample\TextHello\bin\Debug\TextHello.pdb
+C:\Work\Sample\TextHello\obj\Debug\TextHello.csprojAssemblyReference.cache
+C:\Work\Sample\TextHello\obj\Debug\TextHello.csproj.CoreCompileInputs.cache
+C:\Work\Sample\TextHello\obj\Debug\TextHello.exe
+C:\Work\Sample\TextHello\obj\Debug\TextHello.pdb
